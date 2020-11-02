@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="Default.aspx" title="Home"  description="Home Page">
+    <siteMapNode url="StandardToolBox.aspx" title="StandardToolBox" description="StandardToolBox Controls">
+      <siteMapNode url="AdRotatorExample.aspx" title="AdRotator"  description="AdRotator Example" />
+      <siteMapNode url="BulletedListExample.aspx" title="BulletedList"  description="BuulletedList Example" />
+      <siteMapNode url="ButtonExample.aspx" title="Button"  description="Button Example" />
+      <siteMapNode url="CalendarExample.aspx" title="Calendar"  description="Calendar Example" />
+    </siteMapNode>
+    <siteMapNode url="DataToolBox.aspx" title="DataToolBox" description="DataToolBox controls">
+      <siteMapNode url="ListViewExample.aspx" title="ListView"  description="ListView Example" />
+      <siteMapNode url="GridViewExample.aspx" title="GridView"  description="GridView Example" />
+    </siteMapNode>
+    <siteMapNode url="NavigationToolbox.aspx" title="Navigation Toolbox" description="NavigationToolbox controls">
+      <siteMapNode url="MenuExample.aspx" title="Menu"  description="Menu Example" />
+      <siteMapNode url="SiteMapPathExample.aspx" title="SiteMapPath"  description="SiteMapPath Example" />
+      <siteMapNode url="TreeViewExample.aspx" title="TreeView"  description="TreeView Example" />
+    </siteMapNode>
+  </siteMapNode>
+</siteMap>

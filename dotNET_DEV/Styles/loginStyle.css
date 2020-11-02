@@ -1,0 +1,67 @@
+﻿.centerBlock {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    width: 30em;
+    height: 18em;
+    margin-top: -9em; /*set to a negative number 1/2 of your height*/
+    margin-left: -15em; /*set to a negative number 1/2 of your width*/
+    border: 1px solid #ccc;
+}
+
+.main {
+    background-color: #f7f7f7;
+    max-width: 25%;
+    text-align: center;
+    font-family: "Bauhaus 93";
+    color: #06a7e2;
+    margin-top: 8.5%;
+    margin-left: 60%;
+}
+
+.in img {
+    max-width: 60%;
+    max-width: 60%;
+}
+
+.fm {
+    display: block;
+    color: #bdbdbd;
+    font-family: "Castellar";
+    margin-left: 2%;
+    margin-top: 2%;
+    padding: 2%;
+    width: 80%;
+}
+
+    .fm input {
+        padding: 2%;
+        margin: 2%;
+        color: #06a7e2;
+        width: 100%;
+    }
+
+.btn {
+    background-color: #06a7e2;
+    color: green;
+    text-decoration: solid;
+    padding: 15px 32px;
+    border: none;
+    font-size: 100%;
+}
+
+    .btn:hover {
+        opacity: 0.9;
+    }
+
+.bcon {
+    width: 50%;
+    height: 20%;
+}
+
+label {
+    float: left;
+    color: darkblue;
+    font-variant: small-caps;
+    font-family: Calibri;
+}

@@ -1,0 +1,5 @@
+C:\Users\E005450\source\repos\dotNET_DEV\EkartData\bin\Debug\EkartData.dll
+C:\Users\E005450\source\repos\dotNET_DEV\EkartData\bin\Debug\EkartData.pdb
+C:\Users\E005450\source\repos\dotNET_DEV\EkartData\obj\Debug\EkartData.csprojAssemblyReference.cache
+C:\Users\E005450\source\repos\dotNET_DEV\EkartData\obj\Debug\EkartData.dll
+C:\Users\E005450\source\repos\dotNET_DEV\EkartData\obj\Debug\EkartData.pdb
